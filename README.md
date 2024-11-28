@@ -11,7 +11,7 @@ This repository contains a Docker Compose configuration to run a MongoDB instanc
 1. Clone this repository:
 
     ```
-    git clone <repository_url>
+    git clone https://github.com/channrith/mongodb.git
     cd <repository_directory>
     ```
 
